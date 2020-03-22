@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584828637 source:c:\users\matea\documents\facks\objektno 2020\vjezba2zad2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
