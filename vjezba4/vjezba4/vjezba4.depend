@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587239712 source:c:\users\matea\documents\facks\objektno 2020\vjezba4\vjezba4\main.cpp
+	<iostream>
+	<string>
+	"treseta.h"
+
+1587239460 source:c:\users\matea\documents\facks\objektno 2020\vjezba4\vjezba4\treseta.cpp
+	<iostream>
+	<list>
+	<string>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"treseta.h"
+
+1587240268 c:\users\matea\documents\facks\objektno 2020\vjezba4\vjezba4\treseta.h
+	<iostream>
+	<list>
+	<string>
+
