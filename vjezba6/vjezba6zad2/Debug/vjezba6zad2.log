@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\Matea\Documents\facks\objektno 2020\vjezba6\vjezba6zad2\game.cpp(22,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Matea\Documents\facks\objektno 2020\vjezba6\vjezba6zad2\game.cpp(44,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vjezba6zad2.vcxproj -> C:\Users\Matea\Documents\facks\objektno 2020\vjezba6\vjezba6zad2\Debug\vjezba6zad2.exe
