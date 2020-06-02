@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1588521453 source:c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\igrac.cpp
+	<iostream>
+	<list>
+	<string>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Igrac.hpp"
+
+1588521453 c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\igrac.hpp
+	<iostream>
+	<list>
+	<string>
+	"Mac.hpp"
+
+1588452405 c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\karta.hpp
+	<iostream>
+	<string>
+
+1588452232 source:c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\karta.cpp
+	<iostream>
+	<string>
+	"Karta.hpp"
+
+1588455936 source:c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\mac.cpp
+	<iostream>
+	<list>
+	<string>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<vector>
+	"Mac.hpp"
+
+1588462935 c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\mac.hpp
+	<iostream>
+	<list>
+	<string>
+	"Karta.hpp"
+
+1588521039 source:c:\users\matea\documents\facks\objektno 2020\vjezba5\vjezba5zad1\main.cpp
+	<iostream>
+	<string>
+	"Igrac.hpp"
+
